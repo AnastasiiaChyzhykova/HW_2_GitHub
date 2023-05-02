@@ -1,0 +1,15 @@
+Вug report structure:
+
+- bug id;
+- project;
+- component;
+- severity;
+- priority; 
+- author;
+- assigned to;
+- environment;
+- bug title;
+- STR (Steps to Reproduce);
+- actual result;
+- expected result;
+- attachment.
